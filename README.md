@@ -1,27 +1,29 @@
-# ToDoList
+* To Do List
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.4.
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-## Code scaffolding
+> My first project in Angular and I've built it with the purpose of train my skills and exercise some basic concepts as ngModel and ngFor. The app consists in a to-do list that you can risk the tasks you've already made and click on it to delete it permanently.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+![todolist](https://user-images.githubusercontent.com/100249571/187821577-c46676ea-3059-4517-94ab-d8e043bfebc9.png)
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
+## 💻 Requirements
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+* Have a smartphone or computer and access to the internet.
 
-## Running end-to-end tests
+## 🈚 Languages
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+* HTML
+* CSS
+* typeScript
+* Angular
 
-## Further help
+## 📱 Social Midias
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Linkedin: http://bit.ly/linkedinmatheussoares
+E-mail: dev.matheussoares@gmail.com
+
+
+
